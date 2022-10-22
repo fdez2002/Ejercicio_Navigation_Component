@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicio Navigation Component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--Primer Fragment-->
+    <string name="edT1">Introduce un texto</string>
+    <string name="edN1">Introduce un numero</string>
+    <string name="button">Segunda pantalla</string>
+    <!--Segundo Fragment-->
+    <string name="tv1Texto"></string>
+    <string name="tv2Numero"></string>
+    <string name="buttonPantallaFinal">Pasar a la pantalla final</string>
+    <!--Tercero Fragment-->
+    <string name="tv3PantallaFinal">Pantalla Final</string>
+    <string name="buttonVolveraInicio">Volver a inivo</string>
+</resources>
